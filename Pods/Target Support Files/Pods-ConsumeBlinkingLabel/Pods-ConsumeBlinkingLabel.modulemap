@@ -1,0 +1,6 @@
+framework module Pods_ConsumeBlinkingLabel {
+  umbrella header "Pods-ConsumeBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

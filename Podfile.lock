@@ -1,0 +1,29 @@
+PODS:
+  - BlinkingLabel (0.1.0)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - BlinkingLabel (from `https://github.com/bin10dev/BlinkingLabel.git`, branch `master`)
+  - RxSwift (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - RxSwift
+
+EXTERNAL SOURCES:
+  BlinkingLabel:
+    :branch: master
+    :git: https://github.com/bin10dev/BlinkingLabel.git
+
+CHECKOUT OPTIONS:
+  BlinkingLabel:
+    :commit: a953ffd823e6d7d78d685bfc35814a00debc0e06
+    :git: https://github.com/bin10dev/BlinkingLabel.git
+
+SPEC CHECKSUMS:
+  BlinkingLabel: d8981e097953663fcd5d0e1b0bdd9f0f1b147705
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: 43ba331b66eb5e72540ce53393b48ae4db08e129
+
+COCOAPODS: 1.9.3
